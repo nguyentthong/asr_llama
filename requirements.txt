@@ -1,0 +1,14 @@
+torch>=2.0.0
+lightning @ git+https://github.com/Lightning-AI/lightning@master
+sentencepiece
+tqdm  
+numpy 
+jsonargparse[signatures] 
+bitsandbytes  
+datasets  
+zstandard  
+numpy
+torch
+tqdm
+more-itertools
+tiktoken==0.3.3
